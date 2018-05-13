@@ -1,0 +1,13 @@
+5/13/2018 7:30:06 PM	This log contains information about the import operation of the script 'script.sql' into project 'WorkPatternModelDB' on computer 'DESKTOP-9J1QGVD' by user'ajant.
+5/13/2018 7:30:06 PM	Started importing file: C:\Users\ajant\OneDrive\Documents\script.sql 
+5/13/2018 7:30:06 PM	File name C:\Users\ajant\OneDrive\Documents\script.sql (size: 22524)
+5/13/2018 7:30:06 PM	Parsing import script
+5/13/2018 7:30:06 PM	Total number of batches in script: 43
+5/13/2018 7:30:06 PM	Total number of statements in script: 12
+5/13/2018 7:30:06 PM	The script was successfully imported into the project.
+5/13/2018 7:30:06 PM	Analyzing schema objects...
+5/13/2018 7:30:06 PM	Scanning project for duplicate elements
+5/13/2018 7:30:06 PM	Finished duplicate element processing
+5/13/2018 7:30:06 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+5/13/2018 7:30:06 PM	A summary of the import was saved to the following location: C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WorkPatternModelDB\WorkPatternModelDB\Import Script Logs\script_sql_20180513093006.log
+5/13/2018 7:30:06 PM	Click Finish to continue...

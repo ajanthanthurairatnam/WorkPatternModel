@@ -1,0 +1,9 @@
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WorkPatternModelDB\WorkPatternModelDB\bin\Debug\WorkPatternModelDB.dacpac
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WorkPatternModelDB\WorkPatternModelDB\bin\Debug\WorkPatternModelDB.dll
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WorkPatternModelDB\WorkPatternModelDB\bin\Debug\WorkPatternModelDB.pdb
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WorkPatternModelDB\WorkPatternModelDB\obj\Debug\Model.xml
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WorkPatternModelDB\WorkPatternModelDB\obj\Debug\refactor.xml
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WorkPatternModelDB\WorkPatternModelDB\obj\Debug\postdeploy.sql
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WorkPatternModelDB\WorkPatternModelDB\obj\Debug\predeploy.sql
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WorkPatternModelDB\WorkPatternModelDB\obj\Debug\WorkPatternModelDB.dll
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WorkPatternModelDB\WorkPatternModelDB\obj\Debug\WorkPatternModelDB.pdb
